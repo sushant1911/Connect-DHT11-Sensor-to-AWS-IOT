@@ -16,5 +16,7 @@ Modifying Arduino Sketch according to Thing Data & Credentials
 Subscribe & Publish Data to and from AWS Dashboard
 This tutorial is for beginners who want to learn about the Amazon AWS IoT Core for IoT
 ![image](https://github.com/sushant1911/Connect-DHT11-Sensor-to-AWS-IOT/assets/25933685/eb919fcb-307c-47c1-8aca-3d3547b9ce96)
+
+
 reference :https://how2electronics.com/connecting-esp8266-to-amazon-aws-iot-core-using-mqtt/    
 refrence : https://www.youtube.com/watch?v=x9GfxgkEpXg
