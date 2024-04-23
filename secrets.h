@@ -2,8 +2,8 @@
 
 #define SECRET
 
-const char WIFI_SSID[] = "Airtel_sush-manu";               //TAMIM2.4G
-const char WIFI_PASSWORD[] = "Manu@1112" ;          //0544287380
+const char WIFI_SSID[] = "";               //TAMIM2.4G
+const char WIFI_PASSWORD[] = "" ;          //0544287380
 
 #define THINGNAME "ESP8266"
 
